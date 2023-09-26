@@ -11,3 +11,4 @@ while True:
     result = SumofDigit(number)
 
     print(f"{result}")
+    

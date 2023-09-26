@@ -20,3 +20,4 @@ while True:
         print(f"{num} is a perfect number.")
     else:
         print(f"{num} is not a perfect number.")
+        
