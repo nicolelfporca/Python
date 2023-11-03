@@ -5,7 +5,7 @@ class ReservationSystem:
     def makeReservation(user):
         print("MAKE RESERVATIONS")
         name = input("Name: ")
-        date = input("Date (mm-dd-yyy): ")
+        date = input("Date: ")
         time = input("Time: ")
         adults = int(input("No. of adults: "))
         children = int(input("No. of children: "))
